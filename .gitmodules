@@ -1,3 +1,0 @@
-[submodule "zuul-lib"]
-	path = zuul-lib
-	url = git@github.com:sschepis-zuul/zuul-lib.git
